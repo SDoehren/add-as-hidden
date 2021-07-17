@@ -22,11 +22,11 @@ Add As Hidden is a simple module that allows for characters to be added to the t
 
 Player ownership dictates how they are treating in this module.
 
-###Licence
+## Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Change log
 
-#### 0.0.01 - First Release  
+#### 0.0.02 - First Release  
 This was the first release.
